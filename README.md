@@ -56,6 +56,16 @@ It work something like this:
 **A7- Prompt Library** is a collection of prompts that are used to guide the language model's output.
 - it is a collection of prompts that are used to guide the language model's output.
 
+# Steps
+1. Clear Instructions
+    - make sure you provide clear instruction about what you need and what you don't need
+2. Adopt a persona
+    - give AI a persona that is relevant to the task/project/person you are working on
+3. Specify the format
+    - specify the format of the output
+4. Avoid leading the Answer
+5. Limit the scope
+
 # History
 ## Eliza
 - An early natural language processor (1964 to 1966)
