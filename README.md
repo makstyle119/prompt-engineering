@@ -56,6 +56,17 @@ It work something like this:
 **A7- Prompt Library** is a collection of prompts that are used to guide the language model's output.
 - it is a collection of prompts that are used to guide the language model's output.
 
+**Q8- what is Zero Shot Prompt ?** <br />
+**A8- Zero Shot Prompt** is asked to solve a task or problem without any specific instruction/preparation.
+
+**Q9- what is Few Shot Prompt ?** <br />
+**A9- Prompt Library** is a collection of prompts that are used to guide the language model's output.
+
+**Q10- what is AL Hallucination ?** <br />
+**A10- AL Hallucination** is a type of hallucination that is caused by the language model.
+- it happens when the language model generates a response that is not related to the input prompt.
+- it happens because the language model is not trained on the input prompt.
+
 # Steps
 1. Clear Instructions
     - make sure you provide clear instruction about what you need and what you don't need
