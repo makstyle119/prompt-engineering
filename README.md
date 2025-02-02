@@ -89,3 +89,9 @@ It work something like this:
 ## GPT (Generative Pre-trained Transformer)
 - A large language model (2018 to present)
 - by OpenAI
+
+## Resources
+I start my journey using this cool stuff so shout to them:
+- <a href="https://www.youtube.com/watch?v=_ZvnD73m40o&t=1878s" target="_blank"> Prompt Engineering Tutorial - Master ChatGPT and LLM Responses by 
+freeCodeCamp.org
+</a> from **Q1** to **010**
